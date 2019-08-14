@@ -11,6 +11,7 @@
     <modules>
         <module>single</module>
         <module>policy</module>
+        <module>factory</module>
     </modules>
 
     <properties>
