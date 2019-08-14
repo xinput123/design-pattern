@@ -3,7 +3,7 @@ package com.factorymethod.simple;
 /**
  * 场景类，负责模拟这个女娲造人的场景
  */
-public class Client {
+public class ClientSimple {
 
     public static void main(String[] args) {
         // 声明一个工厂类
