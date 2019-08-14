@@ -1,4 +1,4 @@
-package com.factorymethod;
+package com.factorymethod.simple;
 
 /**
  * 黄种人

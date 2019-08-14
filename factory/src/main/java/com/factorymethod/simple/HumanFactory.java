@@ -1,4 +1,4 @@
-package com.factorymethod;
+package com.factorymethod.simple;
 
 /**
  * 抽象类的实现类，完成具体的任务

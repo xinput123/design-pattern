@@ -1,4 +1,4 @@
-package com.factorymethod;
+package com.factorymethod.simple;
 
 /**
  * 抽象类，定义工厂的基本方法

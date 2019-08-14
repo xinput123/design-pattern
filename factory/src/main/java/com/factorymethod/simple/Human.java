@@ -1,4 +1,4 @@
-package com.factorymethod;
+package com.factorymethod.simple;
 
 /**
  * Human 接口是人类的总称，有三个实现类
