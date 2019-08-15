@@ -2,6 +2,7 @@
 - single 单例模式
 - policy 策略模式
 - factory 工厂模式
+- abstract-factory 抽象工厂模式
 
 
 #### 工厂模式

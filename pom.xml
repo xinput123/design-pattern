@@ -12,6 +12,7 @@
         <module>single</module>
         <module>policy</module>
         <module>factory</module>
+        <module>abstract-factory</module>
     </modules>
 
     <properties>
