@@ -13,6 +13,7 @@
         <module>policy</module>
         <module>factory</module>
         <module>abstract-factory</module>
+        <module>template-method-pattern</module>
     </modules>
 
     <properties>
