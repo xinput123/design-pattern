@@ -14,6 +14,7 @@
         <module>factory</module>
         <module>abstract-factory</module>
         <module>template-method-pattern</module>
+        <module>builder</module>
     </modules>
 
     <properties>
