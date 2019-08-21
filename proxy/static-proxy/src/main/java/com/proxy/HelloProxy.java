@@ -1,8 +1,9 @@
 package com.proxy;
 
 /**
- * @author <a href="mailto:xinput.xx@gmail.com">xinput</a>
- * @Date: 2019-08-20 23:05
+ * HelloProxy类实现了Hello接口(和HelloImpl实现相同的接口)，
+ * 并且在构造方法中new出来一个HelloImpl类的实例.
+ * 这样我们就可以在HelloProxy的say方法里面去调用HelloImpl的say方法了。
  */
 public class HelloProxy implements Hello {
 
