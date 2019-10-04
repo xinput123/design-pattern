@@ -10,6 +10,7 @@
 - mediator-pattern 中介者模式
 - decorator-pattern 装饰模式
 - graphic-pattern 命令模式
+- Chain of Responsibility Pattern 责任链模式
 - Adapter-pattern 适配器模式
 - iterator pattern 迭代器模式
 - composite-pattern 组合模式
