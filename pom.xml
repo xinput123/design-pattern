@@ -21,6 +21,7 @@
         <module>graphic</module>
         <module>chain</module>
         <module>adapter</module>
+        <module>iterator</module>
     </modules>
 
     <properties>
