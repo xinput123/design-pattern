@@ -25,6 +25,8 @@
         <module>composite</module>
         <module>observer</module>
         <module>facade</module>
+        <module>memento</module>
+        <module>visitor</module>
     </modules>
 
     <properties>
