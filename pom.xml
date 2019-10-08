@@ -23,6 +23,7 @@
         <module>adapter</module>
         <module>iterator</module>
         <module>composite</module>
+        <module>observer</module>
     </modules>
 
     <properties>
