@@ -24,6 +24,7 @@
         <module>iterator</module>
         <module>composite</module>
         <module>observer</module>
+        <module>facade</module>
     </modules>
 
     <properties>
