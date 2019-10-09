@@ -21,6 +21,7 @@
 - interpreter-pattern 解释器模式
 - flyweight-pattern 享元模式
 - bridge-pattern 桥梁模式
+- state-pattern 状态模式
 
 
 #### 工厂模式
