@@ -23,7 +23,7 @@ public class Singleton07 {
     private Singleton07() {
     }
 
-    public static synchronized Singleton07 getInstance() {
+    public static Singleton07 getInstance() {
         if (null == singleton) {                           // 1
             synchronized (Singleton07.class) {          // 2
                 if (null == singleton) {                   // 3
